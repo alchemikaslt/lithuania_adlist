@@ -1,2 +1,4 @@
 delivery.adnuntius.com
 inmobi.com
+api.cmp.inmobi.com
+visit-server.inmobi-choice.io
